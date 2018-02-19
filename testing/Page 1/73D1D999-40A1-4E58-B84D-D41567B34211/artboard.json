@@ -576,14 +576,6 @@
     {
       "class": "text",
       "id": "204B6D5D-3819-4EED-A7F7-C4F27D24B8CB"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "073F35B7-5C0C-4456-823D-9271B138A2BE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8CA3D532-90C6-459E-9E23-7536A1B7BAF8"
     }
   ],
   "name": "Data Table",
