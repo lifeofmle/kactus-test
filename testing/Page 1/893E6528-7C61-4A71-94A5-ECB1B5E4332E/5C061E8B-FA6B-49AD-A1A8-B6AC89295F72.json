@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5C061E8B-FA6B-49AD-A1A8-B6AC89295F72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 944,
+    "x": 23,
+    "y": 272
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Table/Users Copy 2",
+  "nameIsFixed": false,
+  "originalObjectID": "161E8327-CE03-4AD3-A223-AE3F89F077EC",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "047BD542-0F64-4333-8A5D-EE2BBC3A3C24_stringValue",
+      "value": "AW"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2AC432D2-D8E5-4A32-9B27-0FF8400DCD05_stringValue",
+      "value": "andrew@kounta.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "91484C62-2277-4111-AF63-A78E040B60F1_stringValue",
+      "value": "Andrew Wong"
+    }
+  ],
+  "overrides": {
+    "047BD542-0F64-4333-8A5D-EE2BBC3A3C24": "AW",
+    "2AC432D2-D8E5-4A32-9B27-0FF8400DCD05": "andrew@kounta.com",
+    "91484C62-2277-4111-AF63-A78E040B60F1": "Andrew Wong"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "CED569A1-1EAF-4CD4-8143-72E690EC2647",
+  "verticalSpacing": 0
+}

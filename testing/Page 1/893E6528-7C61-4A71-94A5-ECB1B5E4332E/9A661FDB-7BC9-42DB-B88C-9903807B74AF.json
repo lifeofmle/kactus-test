@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9A661FDB-7BC9-42DB-B88C-9903807B74AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 944,
+    "x": 23,
+    "y": 417
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Table/Users Copy 4",
+  "nameIsFixed": false,
+  "originalObjectID": "53D92F54-B6D5-431B-B9A2-F73F02EBE237",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B0D983E0-18F7-4162-99AC-BE2EE2F90FAE_stringValue",
+      "value": "nick@kounta.com"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "84B34BD6-D971-41BC-A38D-8A500B3CEBC0_stringValue",
+      "value": "Nick"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7B6B9F03-5358-456F-B254-77C1D74C11D6/047BD542-0F64-4333-8A5D-EE2BBC3A3C24_stringValue",
+      "value": "N"
+    }
+  ],
+  "overrides": {
+    "7B6B9F03-5358-456F-B254-77C1D74C11D6": {
+      "047BD542-0F64-4333-8A5D-EE2BBC3A3C24": "N"
+    },
+    "84B34BD6-D971-41BC-A38D-8A500B3CEBC0": "Nick",
+    "B0D983E0-18F7-4162-99AC-BE2EE2F90FAE": "nick@kounta.com"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "56D2C832-95D8-4295-BA04-2866C63FC4E7",
+  "verticalSpacing": 0
+}

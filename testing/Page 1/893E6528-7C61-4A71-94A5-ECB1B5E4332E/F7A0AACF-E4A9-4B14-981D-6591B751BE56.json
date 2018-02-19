@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F7A0AACF-E4A9-4B14-981D-6591B751BE56",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 944,
+    "x": 23,
+    "y": 128
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 1,
+  "name": "Table/Users",
+  "nameIsFixed": false,
+  "originalObjectID": "53D92F54-B6D5-431B-B9A2-F73F02EBE237",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "E8284D23-BD6B-4A7B-B701-6AA988C71566_stringValue",
+      "value": "Invite Pending"
+    }
+  ],
+  "overrides": {
+    "E8284D23-BD6B-4A7B-B701-6AA988C71566": "Invite Pending"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "56D2C832-95D8-4295-BA04-2866C63FC4E7",
+  "verticalSpacing": 0
+}
