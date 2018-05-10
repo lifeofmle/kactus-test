@@ -24,17 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icons/Settings",
   "nameIsFixed": false,
   "originalObjectID": "B787EEA3-1FFE-41D3-BC10-2E0CC01DDC36",
   "overrideValues": [
   ],
-  "overrides": {
-  },
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,

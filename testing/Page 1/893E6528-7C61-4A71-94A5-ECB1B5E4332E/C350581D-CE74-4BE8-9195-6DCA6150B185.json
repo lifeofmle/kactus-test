@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Table/Users Copy",
   "nameIsFixed": false,
   "originalObjectID": "53D92F54-B6D5-431B-B9A2-F73F02EBE237",
@@ -48,13 +44,6 @@
       "value": "SG"
     }
   ],
-  "overrides": {
-    "7B6B9F03-5358-456F-B254-77C1D74C11D6": {
-      "047BD542-0F64-4333-8A5D-EE2BBC3A3C24": "SG"
-    },
-    "84B34BD6-D971-41BC-A38D-8A500B3CEBC0": "Simon Le Grand",
-    "B0D983E0-18F7-4162-99AC-BE2EE2F90FAE": "simon@kounta.com"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Table/Users",
   "nameIsFixed": false,
   "originalObjectID": "53D92F54-B6D5-431B-B9A2-F73F02EBE237",
@@ -38,9 +34,6 @@
       "value": "Invite Pending"
     }
   ],
-  "overrides": {
-    "E8284D23-BD6B-4A7B-B701-6AA988C71566": "Invite Pending"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

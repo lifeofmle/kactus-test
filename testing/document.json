@@ -16,9 +16,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "C8E46A2C-A6FD-49FA-AD40-EE88C82263CD",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
   "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
@@ -26,10 +28,10 @@
     ]
   },
   "meta": {
-    "appVersion": "48.2",
-    "build": 47327,
-    "commit": "b8111e3393c4ca1f2399ecfdfc1e9488029ebe7b",
-    "version": 97
+    "appVersion": "50",
+    "build": 54983,
+    "commit": "f74bbbd73197756d9dfb269acddca1dac42fbdca",
+    "version": 103
   },
   "pages": [
     "Page 1",

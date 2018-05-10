@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "5213C643-61DB-4B9E-9522-E88B6A28D089",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "894FF532-4168-431F-836F-0A6BAB8A2F8C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "58FFA3D4-D243-40C8-A752-557CF4B64E1C",
+    "height": 24,
+    "width": 24,
+    "x": -5,
+    "y": -2
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C42FD42A-C4EE-48F8-972D-7222A7C588F6"
+    }
+  ],
+  "name": "🎨Theme/Light",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E58BF2A9-92AC-4EB1-85FC-B5FCFD53584E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

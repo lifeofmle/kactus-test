@@ -24,10 +24,6 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 1,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 1,
   "name": "Table/Users Copy 2",
   "nameIsFixed": false,
   "originalObjectID": "161E8327-CE03-4AD3-A223-AE3F89F077EC",
@@ -48,11 +44,6 @@
       "value": "Andrew Wong"
     }
   ],
-  "overrides": {
-    "047BD542-0F64-4333-8A5D-EE2BBC3A3C24": "AW",
-    "2AC432D2-D8E5-4A32-9B27-0FF8400DCD05": "andrew@kounta.com",
-    "91484C62-2277-4111-AF63-A78E040B60F1": "Andrew Wong"
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
