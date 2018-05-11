@@ -24,17 +24,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "masterInfluenceEdgeMaxXPadding": 0,
-  "masterInfluenceEdgeMaxYPadding": 0,
-  "masterInfluenceEdgeMinXPadding": 0,
-  "masterInfluenceEdgeMinYPadding": 0,
   "name": "Icons/Delete 2",
   "nameIsFixed": false,
   "originalObjectID": "538E43B9-4B50-468C-B4AD-9A496B3422A2",
   "overrideValues": [
   ],
-  "overrides": {
-  },
   "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
