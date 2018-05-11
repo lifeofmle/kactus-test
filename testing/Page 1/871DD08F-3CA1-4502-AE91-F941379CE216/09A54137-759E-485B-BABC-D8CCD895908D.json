@@ -1,0 +1,53 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "09A54137-759E-485B-BABC-D8CCD895908D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7091BE86-5186-46F7-AB6A-8226472BB941",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F36CE602-E715-48CE-AA7C-59DBE213EC87",
+    "height": 32,
+    "width": 107,
+    "x": 809,
+    "y": 233
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Secondary/Idle Copy",
+  "nameIsFixed": false,
+  "originalObjectID": "617E6D2D-BB83-473F-8A44-F2B6BE9DE9C9",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6FD47E3F-5563-4626-8850-8062A77FADC7_stringValue",
+      "value": "Copy"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E2403195-7E99-473A-9E83-1647C1E73F45",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2228E8C5-164F-4FB8-913E-3CC4FDA152E3",
+  "verticalSpacing": 0
+}
